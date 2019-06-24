@@ -1,4 +1,4 @@
 # Websites
 course projects
 
-These webites are static websites (html/scss).
+These webites are static websites (html/sass).
